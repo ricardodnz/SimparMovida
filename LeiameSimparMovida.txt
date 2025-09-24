@@ -1,0 +1,133 @@
+************************************************************************************************************************
+************************************************************************************************************************
+https://outlook.office.com/mail/
+https://teams.microsoft.com/v2/
+User: ricardodiniz@movida.com.br
+Pass: SimRD202501?
+Pass: q?RgkOSRH6Go
+Pass: Movida@@3030
+
+https://vetorzkm.movida.com.br/index.php
+https://jira-movida.atlassian.net/jira/projects?page=1&sortKey=name&sortOrder=ASC
+https://git.movidacloud.com.br/diegolsoares
+
+R. Dr. Renato Paes de Barros, 1017 - Itaim Bibi
+
+
+************************************************************************************************************************
+GIT
+https://git.movidacloud.com.br/ricardo.diniz
+Realizado a criação do usuário conforme o chamado, segue dados de acesso:
+User: ricardo.diniz
+Pass: SimRD202501?
+Pass: 0I*GEWr0GCVt
+
+GOOGLE CLOUD
+User: ricardo.diniz
+Pass: 0I*GEWr0GCVt
+
+gcloud auth application-default login
+.\cloud-sql-proxy.x64.exe --address 0.0.0.0 --port 3306 movidacloud-rpa:southamerica-east1:cldp001301-007
+
+
+************************************************************************************************************************
+https://git.movidacloud.com.br/
+https://git.movidacloud.com.br/-/user_settings/profile
+6232c40d77680013
+099dde874be10db4
+3f1c0654508d5383
+fe931405f9379025
+acbdd27469ed90ec
+262922055d45776b
+5dbddcd4b5a3aae8
+47e6341697a838df
+ba7cb1682b979f92
+777872963d7c2906
+
+
+************************************************************************************************************************
+CHAMADOS
+https://jira-movida.atlassian.net/servicedesk/customer/portals
+
+Suporte aplicações:
+https://jira-movida.atlassian.net/servicedesk/customer/portal/12/group/34/create/203
+Assunto            : Instalação de software
+Loja               : Movida matriz
+Tipo de solicitação: instalação software
+
+Acessos:
+https://jira-movida.atlassian.net/servicedesk/customer/portal/12/group/34/create/212
+
+
+************************************************************************************************************************
+SERVERS
+User: movida.inet\rpa.servidores
+Pass: b95@kU41CKNf
+
+
+************************************************************************************************************************
+SHAREPOINT
+https://juliosimoes-my.sharepoint.com/:f:/g/personal/gustavo_atvars_movida_com_br/Ev-3TupSgZRNrOBQbPfa5OsBaWZidjjH_a6WlVb29w-TWg?e=whLiM1
+https://juliosimoes.sharepoint.com/sites/RPAParmetros
+https://juliosimoes.sharepoint.com/sites/Catalogo-RPA
+https://juliosimoes.sharepoint.com/:x:/r/sites/Catalogo-RPA/_layouts/15/Doc.aspx?sourcedoc=%7BB1F79E9D-731A-4755-8239-DE11052FAF39%7D&file=Cat%25u00e1logo.xlsx&action=default&mobileredirect=true
+
+
+************************************************************************************************************************
+DIRETÓRIOS
+\\10.150.0.156\movida\RPA_BaseCRLV
+
+
+************************************************************************************************************************
+Instalar os seguintes softwares:
+- node.js
+- git
+- vscode
+- dbeaver
+- python
+- mysql
+- .NET
+- notepad++
+- PtrScr
+
+
+************************************************************************************************************************
+daniel.ripari@simpar.com.br
+
+
+
+************************************************************************************************************************
+https://accounts.google.com/v3/signin/identifier?opparams=%253F&dsh=S-1777036269%3A1757614574370473&access_type=offline&client_id=32555940559.apps.googleusercontent.com&code_challenge=eZDBKsS8xEmTJlQNTDMiD8ai6HMN4pOs4S7_WecYV0I&code_challenge_method=S256&o2v=1&redirect_uri=http%3A%2F%2Flocalhost%3A8085%2F&response_type=code&scope=openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fappengine.admin+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fsqlservice.login+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcompute+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Faccounts.reauth&service=lso&state=St6rIEmdJ6I2ALlN9Zz7gzJpvLx9j5&flowName=GeneralOAuthFlow&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAOw7zwSddd2U7zZeQv1LechYO_LDBXxwSazLEcD59xHXuvsgWMCs7VDqdarv8yVpnlTiTeKhDS4PL2p03F5uU5i42bhDBYZ7MKjaj07k0F4PVcWOMbqmktRHdk9ccGQH1S8PPO9uAtxflWbvk9qfIPlcLUxFZtq1cgmhNz1d8KMCkDtGgUcblDERFc_xxWAi31aDOWzhT_9cR5LuwOH_0fQM_HrbGmX6vXudEhzEihzBVfd9D_9ilbD7ii1GkRrw5KQUcVrFpQiXvYzVdMiybePKlkQBbiCdbHwj9Uu8NWKlSeTTz_rRSdqD9LO6AbWe1PhazInlSEh9mB_RRiog8cSsxRlwxzCzaOACKQCJS0BLteKwmSc8MF8e0cfpsdnUIJwg4lnNYzWRAPKf1Agqpwz9lXdK3Gae9yMzUtc90kzvtEcAQ3__U0D95FG1-MTU9CgmhmwnPoug9_gELlvH2QD94A7Ww%26flowName%3DGeneralOAuthFlow%26as%3DS-1777036269%253A1757614574370473%26client_id%3D32555940559.apps.googleusercontent.com%23&app_domain=http%3A%2F%2Flocalhost%3A8085&rart=ANgoxceKpYhD1svQXPgfdH8xGR97jMZdkWE7zIyuD2G6uhsh1y6frp_R0_PkDkzo1EqwrkrcD1HopBmeMgVbe8s0W4h3XsA0NnaoaENTkcGKSgh4fprY2G69mP6CvMoipvzBMdjG_f1f
+
+
+************************************************************************************************************************
+EXTRAÇÃO CRLV
+Base CRLV - Resumo
+
+HANDOVER
+- Será criada uma documentação, SDD(Documento Design de Solução) bem ao estilo manual do usuário. Detalhando como funciona a automação com prints de tela quando possível.
+- Realização de execução assistida com responsáveis da área(Key account). Demonstrando a execução da automação, respondendo a dúvidas destacando pontos relevantes na automação.
+- Handover, aqui será onde inverte o papéis, os responsáveis da área(Key account) executam a automação e nossa área apenas acompanha e auxília durante o processo.
+- Liberação de ambiente para execução. Servidor(es)(VMs). Caso necessário.
+
+
+- Será criada uma documentação, SDD(Documento Design de Solução) bem ao estilo manual do usuário. Detalhando como funciona a automação com prints de tela quando possível.
+Já existe uma criada pelo Diego e a mesma será melhorada.
+- Realização de execução assistida com responsáveis da área(Key account). Demonstrando a execução da automação, respondendo a dúvidas destacando pontos relevantes na automação.
+- Handover, aqui será onde inverte o papéis, os responsáveis da área(Key account) executam a automação e nossa área apenas acompanha e auxília durante o processo.
+- Liberação de ambiente para execução. Servidor(es)(VMs). Caso necessário.
+
+
+************************************************************************************************************************
+https://sema4.ai/docs/automation/troubleshooting/windows-long-path
+https://sema4.ai/docs/automation/troubleshooting/windows-long-path#step-by-step-guide
+
+
+************************************************************************************************************************
+SOLUÇÕES RPA
+https://openiap.io/openrpa
+https://app.openiap.io/ui/login
+User: ricardodiniz@movida.com.br
+Pass: SimRDOpen2025?
+
+https://robocorp.com/portal
